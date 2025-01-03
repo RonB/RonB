@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @RonB
-- 👀 I’m interested in tech.. mainly IoT to improve my Smarthome, but also in AI and Machine learning
-- 🌱 I’m currently learning NodeRED 
+- 👀 I’m interested in tech.. AI and Machine learning for our company Flying-Pillow
 - 💞️ I’m looking to collaborate on any other project if I can be helpfull, looking for collaborators on my first NodeRED node project
 - 📫 You can reach me thru Github
 
